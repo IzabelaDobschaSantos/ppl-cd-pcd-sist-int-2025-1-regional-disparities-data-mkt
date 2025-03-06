@@ -1,11 +1,11 @@
 # TITULO DO PROJETO: Diferenças regionais no mercado de dados do Brasil.
 
 Alunos:
-Walker Junio Gonzaga Rocha, walker.rocha@sga.pucminas.br
-Izabela Dobscha Santos Borges, idsborges@sga.pucminas.br
-Guilherme Amintas Lopes Magalhaes, guilherme.amintas@sga.pucminas.br
-Álvaro Oliveira Soares de Souza, alvaro.souza.1213824@sga.pucminas.br
-
+Walker Junio Gonzaga Rocha - walker.rocha@sga.pucminas.br,
+Izabela Dobscha Santos Borges - idsborges@sga.pucminas.br,
+Guilherme Amintas Lopes Magalhaes - guilherme.amintas@sga.pucminas.br,
+Álvaro Oliveira Soares de Souza - alvaro.souza.1213824@sga.pucminas.br,
+Luiz Eduardo Araújo de Medeiros - leamedeiros@sga.pucminas.br
 ---
 
 Professores:
