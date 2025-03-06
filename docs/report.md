@@ -1,18 +1,16 @@
-# TITULO DO PROJETO
+# TITULO DO PROJETO: Diferenças regionais no mercado de dados do Brasil.
 
-
-**Nome completo do Aluno 1, email do aluno 1**
-
-**Nome completo do Aluno 2, email do aluno 2**
-
-**Nome completo do Aluno 3, email do aluno 3**
+Alunos:
+Walker Junio Gonzaga Rocha, walker.rocha@sga.pucminas.br
+Izabela Dobscha Santos Borges, idsborges@sga.pucminas.br
+Guilherme Amintas Lopes Magalhaes, guilherme.amintas@sga.pucminas.br
+Álvaro Oliveira Soares de Souza, alvaro.souza.1213824@sga.pucminas.br
 
 ---
 
 Professores:
 
-** Prof. Nome do Prof 1 **
-** Prof. Nome do Prof 2 **
+** Prof. Hug Bastos de Paula
 
 ---
 
@@ -29,8 +27,13 @@ mostrar algum resultado relevante do trabalho (até 10 linhas)._
 
 
 ## Introdução
-
 A introdução deve apresentar de dois a quatro parágrafos de contextualização do trabalho. 
+
+O mercado de dados tem se expandido rapidamente no Brasil, impulsionado pela crescente demanda por profissionais qualificados para atuar em áreas como ciência de dados, engenharia de dados e análise de negócios. No entanto, essa expansão não ocorre de forma homogênea em todas as regiões do país, gerando desigualdades no acesso a oportunidades e desenvolvimento profissional. Fatores como disponibilidade de cursos, maturidade do setor tecnológico em cada estado e diferenças salariais impactam diretamente a inserção de novos talentos na área.
+
+Diante desse cenário, este trabalho busca compreender as diferenças regionais no mercado de dados do Brasil, com foco em iniciantes e profissionais em transição de carreira. A análise será realizada a partir de dados sobre experiência profissional, faixa salarial, situação de emprego, nível educacional e principais ferramentas utilizadas, permitindo a identificação de padrões e desafios enfrentados por esses profissionais em diferentes localidades.
+
+O objetivo é desenvolver um sistema inteligente capaz de fornecer insights relevantes sobre essas disparidades, auxiliando iniciantes a tomarem decisões mais informadas sobre qualificação e mercado de trabalho. Além disso, a pesquisa pode contribuir para que empresas e instituições educacionais compreendam melhor o panorama do setor e desenvolvam iniciativas para promover maior equidade e inclusão na área de dados no Brasil.
 
 ###    Contextualização
 
@@ -56,12 +59,7 @@ explicitamente se o aluno tiver autorização para tal.
 
 ###    Objetivo geral
 
-Nesta seção deve-se escrever um pequeno parágrafo ou frase com o **objetivo geral** 
-do trabalho. O objetivo deve ser bem direto, específico e definido com verbos de 
-ação (elaborar, propor, avaliar, comparar etc.). No caso deste projeto, o objetivo é
-"desenvolver um sistema inteligente para ...". O seu objetivo geral deve ser uma
-pergunta orientada a dados. Ou seja, ela deve incluir de forma geral os dados em que
-os modelos irão se basear para atingir o objetivo.
+Desenvolver um sistema inteligente para analisar e comparar as diferenças regionais no mercado de dados do Brasil, identificando padrões de oportunidades e desafios enfrentados por iniciantes e profissionais em transição de carreira. O sistema utilizará dados da pesquisa, como q10_time_of_experience (tempo de experiência), q11_salary_range_br (faixa salarial), q13_job_situation (situação profissional) e q18_career_transition (transição de carreira) para mapear disparidades regionais. Além disso, aspectos como q6_education_level (nível de educação), q7_study_area (área de estudo) e q19_main_tools (principais ferramentas utilizadas) serão analisados para entender diferenças na qualificação e no acesso a tecnologias. Fatores relacionados à empresa, como q14_company_size (tamanho da empresa) e q15_company_type (tipo de empresa), e condições de trabalho, como q29_home_office (trabalho remoto), também serão considerados. O objetivo é auxiliar esses profissionais a tomarem decisões mais informadas sobre sua inserção no mercado, destacando tendências e desafios específicos de cada região.
 
 ####    Objetivos específicos
 
@@ -69,18 +67,17 @@ Apresente também alguns (pelo menos 2) **objetivos específicos** dependendo de
 você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar 
 no seu trabalho.
 
+(Possivel resposta)
+O objetivo é desenvolver um sistema inteligente capaz de oferecer insights sobre quais regiões apresentam mais desafios para novos profissionais, quais habilidades são mais valorizadas no mercado e quais fatores influenciam a empregabilidade. Ao fornecer essas informações de forma acessível, o sistema ajudará estudantes, autodidatas e profissionais em requalificação a tomarem decisões mais estratégicas sobre sua formação e carreira. Além disso, o estudo poderá contribuir para empresas, educadores e formuladores de políticas públicas, fornecendo dados concretos sobre a realidade do setor e incentivando ações que promovam maior inclusão e equidade no mercado de tecnologia.
+
+
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 
 ###    Justificativas
 
-Mostre também as **justificativas** para o  desenvolvimento do seu trabalho e, caso deseje, 
-destaque alguma contribuição do trabalho.
-
-A justific ativa deve descrever a importância ou a motivação para o desenvolvimento do 
-sistema inteligente escolhido. Indique as razões pelas quais você escolheu seus objetivos 
-específicos ou as razões para aprofundar em certos aspectos do software.
+A escolha do tema "Diferenças regionais no mercado de dados do Brasil" surge da necessidade de compreender as disparidades no acesso a oportunidades e desenvolvimento profissional na área de tecnologia, especialmente para iniciantes e profissionais em transição de carreira. O mercado de dados cresce rapidamente, mas nem todos os profissionais possuem as mesmas condições para ingressar e evoluir na área, seja por barreiras educacionais, econômicas ou regionais. Este trabalho busca identificar essas desigualdades analisando fatores como nível de escolaridade, áreas de estudo, situação profissional, transição de carreira e ferramentas mais utilizadas, permitindo um mapeamento detalhado das condições enfrentadas pelos iniciantes em diferentes regiões do país.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
@@ -89,13 +86,13 @@ específicos ou as razões para aprofundar em certos aspectos do software.
 
 ##    Público alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. 
-O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários 
-na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos 
-usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Perfil dos Usuários: Iniciantes e Pessoas em Transição de Carreira
+Estudantes e Autodidatas – Aprendendo análise de dados via cursos, com pouca experiência prática. Foco em ferramentas como Python, SQL e Power BI.
+Profissionais Migrando para Dados – Vêm de áreas como marketing, engenharia e administração, aplicando conhecimentos prévios ao setor de dados. Familiaridade com Excel e BI, mas ainda aprendendo conceitos avançados.
+Requalificados pelo Mercado – Profissionais de setores impactados por mudanças tecnológicas, buscando recolocação com foco em cursos rápidos.
+Esse público busca aprendizado acessível, prática e oportunidades no mercado de dados.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, 
+(olhar esses pontos)-Adicione informações sobre o público-alvo por meio de uma descrição textual, 
 diagramas de personas e mapa de stakeholders.
 
 > **Links Úteis**:
