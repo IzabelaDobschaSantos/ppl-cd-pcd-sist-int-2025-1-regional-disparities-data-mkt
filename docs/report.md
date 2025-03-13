@@ -33,7 +33,7 @@ O mercado de dados tem se expandido rapidamente no Brasil, impulsionado pela cre
 
 Diante desse cenário, este trabalho busca compreender as diferenças regionais no mercado de dados do Brasil, com foco em iniciantes e profissionais em transição de carreira. A análise será realizada a partir de dados sobre experiência profissional, faixa salarial, situação de emprego, nível educacional e principais ferramentas utilizadas, permitindo a identificação de padrões e desafios enfrentados por esses profissionais em diferentes localidades.
 
-O objetivo é desenvolver um sistema inteligente capaz de fornecer insights relevantes sobre essas disparidades, auxiliando iniciantes a tomarem decisões mais informadas sobre qualificação e mercado de trabalho. Além disso, a pesquisa pode contribuir para que empresas e instituições educacionais compreendam melhor o panorama do setor e desenvolvam iniciativas para promover maior equidade e inclusão na área de dados no Brasil.
+O objetivo é desenvolver um sistema inteligente capaz de fornecer insights relevantes sobre essas disparidades, auxiliando iniciantes a tomarem decisões a partir de informações atualizadas sobre qualificação e mercado de trabalho. Além disso, a pesquisa pode contribuir para que empresas e instituições educacionais compreendam melhor o panorama do setor e desenvolvam iniciativas para promover maior equidade e inclusão na área de dados no Brasil.
 
 ###    Contextualização
 
@@ -59,7 +59,7 @@ explicitamente se o aluno tiver autorização para tal.
 
 ###    Objetivo geral
 
-Desenvolver um sistema inteligente para analisar e comparar as diferenças regionais no mercado de dados do Brasil, identificando padrões de oportunidades e desafios enfrentados por iniciantes e profissionais em transição de carreira. O sistema utilizará dados da pesquisa, como q10_time_of_experience (tempo de experiência), q11_salary_range_br (faixa salarial), q13_job_situation (situação profissional) e q18_career_transition (transição de carreira) para mapear disparidades regionais. Além disso, aspectos como q6_education_level (nível de educação), q7_study_area (área de estudo) e q19_main_tools (principais ferramentas utilizadas) serão analisados para entender diferenças na qualificação e no acesso a tecnologias. Fatores relacionados à empresa, como q14_company_size (tamanho da empresa) e q15_company_type (tipo de empresa), e condições de trabalho, como q29_home_office (trabalho remoto), também serão considerados. O objetivo é auxiliar esses profissionais a tomarem decisões mais informadas sobre sua inserção no mercado, destacando tendências e desafios específicos de cada região.
+Desenvolver um sistema inteligente para analisar e comparar as diferenças regionais no mercado de dados do Brasil, identificando padrões de oportunidades e desafios enfrentados por iniciantes e profissionais em transição de carreira. O sistema utilizará dados da pesquisa, como tempo de experiência, faixa salarial, situação profissional, nível de educação, área de estudo e principais ferramentas utilizadas para a educação serão analisados para entender diferenças na qualificação e no acesso a tecnologias. Além disso, fatores relacionados à empresa, como tamanho e tipo de empresa, e modalidades de trabalho (presencial, híbrido ou remoto), também serão considerados. O objetivo é auxiliar esses profissionais a tomarem decisões mais informadas sobre sua inserção no mercado, destacando tendências e desafios específicos de cada região.
 
 ####    Objetivos específicos
 
